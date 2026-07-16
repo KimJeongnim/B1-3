@@ -370,12 +370,23 @@ Discord   Discord
 
 <img width="1077" height="606" alt="n8n입실테스트" src="https://github.com/user-attachments/assets/b3b7bd1a-2661-45f5-ba33-c23c8555a191" />
 
+### 결과
+
+- Google Sheets Trigger 실행
+- 입실 조건 만족
+- Discord 입실 알림 전송 성공
+
 ---
 
 ### 퇴실
 
 <img width="1081" height="640" alt="n8n퇴실알림" src="https://github.com/user-attachments/assets/ef0d3a03-a11d-4c2e-8a5f-fa9e733b3ec5" />
 
+### 결과
+
+- Google Sheets Trigger 실행
+- 퇴실 조건 만족
+- Discord 퇴실 알림 전송 성공
 
 ---
 
